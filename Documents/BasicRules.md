@@ -6,7 +6,7 @@
 
 ## 用語
 
-｜ 用語 | 意味 |
+| 用語 | 意味 |
 |:----|:---|
 | 2d6  |６面体サイコロを２つ振り合計を求めるダイスロールを行うことを指す |
 | GM   | ゲームマスターの略、ゲームの司会進行役 |
@@ -65,7 +65,7 @@
 | 4            | プロジェクト全体のタスク完了の成功率を上げることがある |
 
 
-[IPA 組み込みスキル標準 スキル基準] (chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ipa.go.jp/archive/files/000023849.pdf)
+[IPA 組み込みスキル標準 スキル基準] (https://www.ipa.go.jp/archive/files/000023849.pdf)
 
 
 ### スキルの表記
