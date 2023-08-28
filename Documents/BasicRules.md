@@ -772,7 +772,7 @@ A君は同時にスキル経験の獲得要件を満たしています。B君の
 * 結合テスト
 * 受け入れテスト
 * 納入
-![タスクリストの構造](https://github.com/Grandge/SoftwareDevelopmentTRPG/tree/main/Documents/SampleTasklist.png "タスクリストの構造")
+![タスクリストの構造](images/SampleTasklist.png "タスクリストの構造")
 
 
 #### チームの開発難易度補正
