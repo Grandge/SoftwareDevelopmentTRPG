@@ -1348,7 +1348,7 @@ A君は同時にスキル経験の獲得要件を満たしています。B君の
 
 ## 著作権
 
-Copyright © 2023 芝直之(Naoyuki Siva) ,All Rights Reserved.
+Copyright © 2023-2025 Yasabi Hagure ,All Rights Reserved.
 
 ## ライセンス
 （検討中）
