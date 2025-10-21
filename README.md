@@ -19,3 +19,4 @@
   - 基本システムとドメイン特有の要素を分離する
     * スキルセットや職場環境、使用する開発プロセスなどのドメイン独自要素は他のTRPGのソースブックのように分離できるようにしておく
 
+[基本ルール](https://github.com/Grandge/SoftwareDevelopmentTRPG/blob/main/Documents/BasicRules.md)
